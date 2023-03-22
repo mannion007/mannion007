@@ -37,7 +37,7 @@ I value honest feedback on my approach and performance in any form. I owe all th
 
 ### Knowing the value of our work
 
-Seeing the result of our efforts. I believe the stereotype of computer programmers being people who solely care about writing code is antiquated. I believe engineers must engineer - understand problem spaces fully and apply their craft to deliver effective solutions, with the ability to write elegant code is just one feather in their cap. Seeing the real-world change we make through our efforts is vitally important to me.
+Seeing the result of our efforts. I believe the stereotype of computer programmers being people who solely care about writing code is antiquated. I believe engineers must engineer - understand problem spaces fully and apply their craft to deliver effective solutions, with the ability to write elegant code being just one feather in their cap. Seeing the real-world change we make through our efforts is vitally important to me.
 
 ### Everyone is a mentor - trust and respect underpin everything
 
@@ -45,7 +45,7 @@ It is my strong belief that peer mentorship is one of the most powerful ways to 
 
 ### Getting it right > being right
 
-I believe that building effective software is difficult. A large part of our job is being creative to have lots of ideas for solutions and then being structured in our approach to picking the most effective one.
+I believe that building effective software is difficult. A large part of our job is being creative to have lots of ideas for solutions and then being structured in our approach to picking the most effective one. A healthy team pools together their capabilities to do their best work with no ego.
 
 ## Things you may see me struggle with
 
